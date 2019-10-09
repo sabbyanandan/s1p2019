@@ -1,2 +1,3 @@
-# s1p2019
-S1P 2019 - Decks, Assets etc.
+# Real-Time Performance Analysis of Data-Processing Pipelines with Spring Cloud Data Flow
+
+The Keynote and PDF versions of the slides are in this repo.
